@@ -227,6 +227,9 @@ func Test_rangeSumBST(t *testing.T) {
 }
 
 ```
+
+## my self record
+[golang leetcode 30day 16th day](https://hackmd.io/YhGZx0XfTn25Bp5ciLNB0w?view)
 ## 參考文章
 
 [golang test](https://ithelp.ithome.com.tw/articles/10204692)
